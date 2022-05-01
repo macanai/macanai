@@ -28,7 +28,7 @@
 .mv{
 	width: 50%;
 	max-width: 375px;
-	flex: 1;
+	/* flex: 1; */
 	margin-right: 5%;
 }
 @media screen and (max-width: 768px){
@@ -42,7 +42,8 @@
 /* about
 ---------------------------------------------- */
 .about{
-	flex: 1.5;
+	width: 40%;
+	/* flex: 1.5; */
 }
 	.aboutTtl{
 		font-size: 36px;
