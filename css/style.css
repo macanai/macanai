@@ -61,6 +61,7 @@
 	}
 @media screen and (max-width: 768px){
 	.about{
+		width: 100%;
 		padding-top: 50px;
 	}
 		.aboutTtl{
@@ -188,6 +189,7 @@
 				}
 						.purchaseList{
 							display: flex;
+							justify-content: center;
 							margin-top: 20px;
 						}
 							.purchaseItem + .purchaseItem{
